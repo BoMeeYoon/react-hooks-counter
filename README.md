@@ -1,7 +1,7 @@
 
-## 주제: ** counter
+## 주제: Counter
 
-## 목적: ** useState vs useReducer 차이 알기
+## 목적: useState vs useReducer 차이 알기
 
 * 최종 목표: <counter> 를 시작으로 <vocabulary> 상태관리 또한 useReducer 로 변경해 볼 것이다.
 
