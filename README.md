@@ -1,3 +1,22 @@
+
+주제: counter
+
+목적: useState vs useReducer 차이 알기
+
+useReducer 내용이 복잡해보여 보다 간결한 예시부터
+
+살펴보는 것이 좋을 것 같아 counter를 선택했다.
+
+counter 를 시작으로 'vocabulary(단어장)' 상태관리 또한 
+
+useReducer 로 변경해 볼 것이다.
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

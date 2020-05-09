@@ -1,0 +1,46 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+.counter {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    color: #495057;
+}
+
+.btns {
+    display: flex;
+    flex-direction: row;
+}
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    width: 4rem;
+    height: 2rem;
+    font-size: 1.5rem;
+    text-align: center;
+    border-radius: 4px;
+    background-color: #fcc2d7;
+    transition: 0.25s;
+    cursor: pointer;
+}
+
+button:nth-child(1) {
+    margin-right: 1rem;
+}
+
+/* button:hover {
+    background-color: #e64980;
+} */
+button:active {
+    background-color: #e64980;
+    color: white;
+    font-weight: bold;
+}
+
