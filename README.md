@@ -1,6 +1,7 @@
 
 ## 주제: Counter
 
+<<<<<<< HEAD
 * 목표: `useState` vs `useReducer` 차이를 학습한다.
 
 * 기능: 버튼을 클릭하면 1씩 증가/감소한다
@@ -9,6 +10,11 @@
 
     <strong>Vocabulary</strong>를 만들다보니 App 컴포넌트가 비대하게 느껴졌다. **_App 컴포넌트를 컴팩트_하게 구현하고 싶어 구글링을 하다보니
     `useReducer`&&`useContext`를 알게됐다. 솔직히 바로 사용하기에는 어렵게 느껴져 먼저는 `useReducer`에 대해 익숙해지기 위해 `useState`와의 차이점에 대한 학습을 목표로 삼았다. 보다 간결한 예시를 통해 단계별로 학습할 계획이다.
+=======
+## 목적: useState vs useReducer 차이 알기
+
+* 최종 목표: <counter> 를 시작으로 <vocabulary> 상태관리 또한 useReducer 로 변경해 볼 것이다.
+>>>>>>> aebf2bc78e4490b4f1080c904a6412fb80c3799f
 
 
 * 다음 단계:  Counter 에 Context API 구현해보기 (사실... 굉장히 잉여적이지만, 단계별 연습을 위해^^) 
